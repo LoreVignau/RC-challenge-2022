@@ -11,3 +11,6 @@ El repositorio contiene 3 scripts
   
 3 - RappiCard - Modelo de predicción de fraude.ipynb
   En este escript se entrena un modelo de predicción de fraude usando los datos en la tabla ds_challenge_data_2022.csv y los insights obtenidos de la exploración hecha en los escripts anteriores.
+
+
+El repositorio contiene también el escript de lamba del modelo en producción en AWS 
